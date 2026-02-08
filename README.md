@@ -7,6 +7,10 @@ This project was developed as the **Final Project** for the Mobile App Developme
 ## 🚀 Project Overview
 The primary goal of Rimberio is to simplify the process of finding and hiring service providers. By providing a transparent view of provider portfolios, locations, and social media links, it ensures a high level of trust and convenience for the user.
 
+## 🎨 Design (UI/UX)
+The app's interface was meticulously designed to ensure a modern and user-friendly experience. You can explore the full interactive prototype and design screens here:
+👉 [**View Figma Design**](https://www.figma.com/design/G5OHynPA6aY9jHeWu4Hp16/Ui-Design--Tamkeen-?node-id=0-1&p=f&t=tGaHLPXRyNdvo5Ft-0)
+
 ## ✨ Key Features
 - **Discovery & Filtering:** Browse providers by category and location address.
 - **Provider Portfolios:** View detailed profiles including services, shop addresses, work images, and special offers.
